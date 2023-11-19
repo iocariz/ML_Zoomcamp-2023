@@ -17,6 +17,7 @@ jupyter = "*"
 ipywidgets = "*"
 plotly = "*"
 xgboost = "*"
+tensorflow = "*"
 
 [dev-packages]
 
